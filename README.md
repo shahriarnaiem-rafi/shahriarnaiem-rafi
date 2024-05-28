@@ -10,13 +10,16 @@ I am a passionate computer science . I have been Learning programming languages,
  HTML CSS JAVASCRIPT JAVA MICROSOFT OFFICE
 
  #### 💼   Employment History
- ---
-    | Positution | Institute | Duration | Location |
-    |--------------------------------|-----------------------------------|
-    |  Intern | Naztech inc | Oct-2023 Nov-2023 |Banani,Dhaka,Bangladesh |
-    |---------------------------------|----------------------------------|        
-    | Oparator | Daraz BD | Nov-2021 Jan-2021 | Tejgaon,Dhaka,Bangladesh |
----
+<table style="border:1px solid Black; text-align:center; border-collapse:collapse;">
+    <th><tr>
+    <td >Position</td>
+   <td> Institute</td><td>Duration</td><td>Location</td></tr>
+    </th>
+    <tr>
+    <td>Intern</td>
+   <td>Naztech.inc</td><td>Aug-2023 Nov-2023</td><td>Banani,Dhaka,Bangladesh</td></tr>
+     <tr></tr>
+ </table>
  #### 👨‍🎓 My Education:
  1. Bsc in Computer Science and Engneering    
     Bangladesh University of Business & Technology    
