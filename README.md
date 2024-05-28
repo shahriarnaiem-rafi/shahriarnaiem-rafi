@@ -26,7 +26,7 @@ I am a passionate computer science . I have been Learning programming languages,
  #### 👨‍🎓 My Education:
  1. Bsc in Computer Science and Engneering    
     Bangladesh University of Business & Technology    
-    Mirpur-2, Dhaka
+    Mirpur-2, Dhaka.          
     Running.....
 3. Professional Diploma in Computer Technology                  
     Dhaka Polytechnic Institute             
