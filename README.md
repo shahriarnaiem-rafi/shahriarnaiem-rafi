@@ -27,7 +27,8 @@ I am a passionate computer science . I have been Learning programming languages,
  1. Bsc in Computer Science and Engneering    
     Bangladesh University of Business & Technology    
     Mirpur-2, Dhaka
-2. Professional Diploma in Computer Technology                  
+    Running.....
+3. Professional Diploma in Computer Technology                  
     Dhaka Polytechnic Institute             
     Tejgaon,Dhaka
 
