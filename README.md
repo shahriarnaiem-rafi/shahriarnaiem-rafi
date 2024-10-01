@@ -24,16 +24,14 @@ I am a passionate computer science . I have been Learning programming languages,
             <td>Aug-2023 Nov-2023</td>
             <td>Banani,Dhaka,Bangladesh</td>
         </tr>
-        
-
-        <tr style=" border:1px solid Black;">
-            <td>Trainee</td>
+        <tr style="border:1px solid Black;">
+        <td>Trainee</td>
             <td>ISBDW</td>
             <td>Aug-2023 Nov-2023</td>
             <td>Agargaon,Dhaka,Bangladesh</td>
         </tr>
-
-    </table>
+        </table>
+        
  
  #### 👨‍🎓 My Education:
  1. Bsc in Computer Science and Engneering    
