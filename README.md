@@ -27,7 +27,7 @@ I am a passionate computer science . I have been Learning programming languages,
         <tr style="border:1px solid Black;">
         <td>Trainee</td>
             <td>ISBDW</td>
-            <td>Aug-2023 Nov-2023</td>
+            <td>Running</td>
             <td>Agargaon,Dhaka,Bangladesh</td>
         </tr>
         </table>
