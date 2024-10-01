@@ -1,26 +1,4 @@
-<header class="header secondary-bg">
-        <nav>
-            <h3 class="nav-title" >Ma<span class="text-primary">r</span>y</h3>
-
-            <ul >
-                <li><a class="dark-2" href="" >Portfolio</a></li>
-                <li><a class="dark-2"  href="">Blog</a></li>
-                <li><a href=""><button class="btn-primary">Hire Me</button></a></li>
-            </ul>
-        </nav>
-
-        <duv class="banner">
-            <div class="banner-content">
-                <h4 class="banner-greetings dark-2" >Hi, I am</h4>
-                <h3 class="banner-title">Mary Hardy </h3>
-                <p class="banner-description">Shot what able cold new see hold.Friendly as an betrayed formerly he. Morning because as to society behaved moments.</p>
-                <button class="btn-primary"><i class="fa-solid fa-download"></i> Download CV</button>
-                <button class="btn-primary"><i class="fa-solid fa-phone"></i> Contact</button>
-
-            </div>
-            <img class="banner-profile-pic" src="images/hardy.png" alt="">
-        </duv>
-    </header>
+![Shahriar Naiem](img/Shahriar.png)
 # Hello, I'm Shahriar Naiem Rafi
 I am a Student & Frontend Devoloper <br/>
 🏡 Living: Mohammad Pur, Dhaka<br/>
