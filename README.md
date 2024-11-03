@@ -1,4 +1,4 @@
-//![Shahriar Naiem](img/Shahriar.png)
+
 # Hello, I'm Shahriar Naiem Rafi
 I am a Student & Frontend Devoloper <br/>
 🏡 Living: Mohammad Pur, Dhaka<br/>
@@ -7,7 +7,11 @@ I am a Student & Frontend Devoloper <br/>
 I am a passionate computer science . I have been Learning programming languages, web development, and computer science-related subjects. I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others. 
 
 #### 👨‍💻 My Skills:
- Bootstrap Tailwind JAVASCRIPT JAVA MICROSOFT OFFICE
+*MICROSOFT OFFICE
+ *Bootstrap
+ *Tailwind
+ *JAVASCRIPT
+ *JAVA 
 
  #### 💼   Employment History
 
