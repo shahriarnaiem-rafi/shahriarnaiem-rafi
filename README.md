@@ -8,9 +8,13 @@ I am a passionate computer science . I have been Learning programming languages,
 
 #### 👨‍💻 My Skills:
 *MICROSOFT OFFICE
+<br>
  *Bootstrap
+ <br>
  *Tailwind
+ <br>
  *JAVASCRIPT
+ <br>
  *JAVA 
 
  #### 💼   Employment History
