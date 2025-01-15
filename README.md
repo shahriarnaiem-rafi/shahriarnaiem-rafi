@@ -1,7 +1,7 @@
 
 # Assalamuwalaikum / Hello<br/>
  <h2>I'm Shahriar Naiem Rafi</h2>
-<h4>I am a Student & Frontend Devoloper</h4> <br/>
+<h4>I am  Frontend Devoloper</h4> <br/>
 🏡 Living: Mohammad Pur, Dhaka<br/>
 
 ####  👨‍🏫 About Me
