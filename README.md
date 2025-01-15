@@ -17,11 +17,10 @@ I am passionate about computer science and have been learning programming langua
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ---
 
 ### 💼 Employment History:
