@@ -1,18 +1,18 @@
-# Assalamuwalaikum / Hello
+# Assalamuwalaikum / Hello 👋
 
 ## I'm Shahriar Naiem Rafi
-### I am a Frontend Developer
+### Frontend Developer | Web Enthusiast | Lifelong Learner
 
-🏡 **Living:** Mohammad Pur, Dhaka
+🏡 **Living:** Mohammad Pur, Dhaka, Bangladesh
 
 ---
 
 ### 👨‍🏫 About Me
-I am passionate about computer science and have been learning programming languages, web development, and computer science-related subjects. I am continuously improving my web development skills. Every day, I strive to learn something new and share my knowledge with others.
+I'm a passionate **Frontend Developer** with a strong foundation in **Computer Science and Engineering**. I am constantly striving to enhance my skills in web development and enjoy working with cutting-edge technologies. My focus is on building responsive, user-friendly, and high-performance web applications. Learning new things every day and sharing knowledge with others is my key motivation.
 
 ---
 
-### 👨‍💻 My Skills:
+### 👨‍💻 My Skills
 - ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-0078D4?logo=microsoft-office&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
@@ -20,11 +20,11 @@ I am passionate about computer science and have been learning programming langua
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) Basic
+
 ---
 
-### 💼 Employment History:
-
+### 💼 Employment History
 | **Position** | **Institute**  | **Duration**        | **Location**                       |
 |--------------|----------------|---------------------|------------------------------------|
 | Intern       | Naztech.inc    | Aug 2023 - Nov 2023 | Banani, Dhaka, Bangladesh         |
@@ -32,7 +32,7 @@ I am passionate about computer science and have been learning programming langua
 
 ---
 
-### 👨‍🎓 My Education:
+### 👨‍🎓 Education
 1. **BSc in Computer Science and Engineering**  
    Bangladesh University of Business & Technology (BUBT)  
    Mirpur-2, Dhaka
@@ -43,18 +43,19 @@ I am passionate about computer science and have been learning programming langua
 
 ---
 
-### 🗣 Languages:
+### 🗣 Languages
 - **Bangla:** Native  
 - **English:** Intermediate  
 - **Hindi:** Advanced
 
 ---
 
-### ⚽ Sports / Hobbies / Activities:
+### ⚽ Hobbies / Interests
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess  
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking  
-- ✈️ Traveling
+- ✈️ Traveling  
 
 ---
 
-Thanks for going through my portfolio! All rights reserved by Shahriar Naiem Rafi @2024.
+Thanks for checking out my profile!  
+All rights reserved by Shahriar Naiem Rafi @2024.
