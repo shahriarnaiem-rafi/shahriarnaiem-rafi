@@ -1,7 +1,7 @@
 # Assalamuwalaikum / Hello 👋
 
 ## I'm Shahriar Naiem Rafi
-### Frontend Developer | Web Enthusiast | Lifelong Learner
+### Web Developer | Web Enthusiast | Lifelong Learner
 
 🏡 **Living:** Mohammad Pur, Dhaka, Bangladesh
 
