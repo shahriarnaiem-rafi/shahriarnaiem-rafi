@@ -49,15 +49,15 @@ My personal portfolio showcasing my development skills, projects, and learning j
   </a>
 </p>
 
-## GITHUB STATISTICS
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriarnaiem-rafi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=FFFFFF" width="48%" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarnaiem-rafi&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=FFFFFF" width="48%" alt="Most used languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=shahriarnaiem-rafi&show_icons=true&theme=dark&hide_border=true&title_color=10B981&icon_color=10B981" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shahriarnaiem-rafi&layout=compact&theme=dark&hide_border=true&title_color=10B981" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shahriarnaiem-rafi&theme=dark&hide_border=true&background=0D1117&ring=34D399&fire=10B981&currStreakLabel=34D399" width="70%" alt="GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=shahriarnaiem-rafi&theme=dark&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981" />
 </p>
 
 ---
