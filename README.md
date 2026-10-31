@@ -1,61 +1,57 @@
-# Assalamuwalaikum / Hello 👋
+# 👋 Hey, I'm Shahriar Naiem Rafi
 
-## I'm Shahriar Naiem Rafi
-### Web Developer | Web Enthusiast | Lifelong Learner
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&width=600&lines=Junior+Full+Stack+Developer;Laravel+%7C+React+%7C+JavaScript;Turning+Ideas+Into+Code;Always+Learning+Something+New" />
 
-🏡 **Living:** Mohammad Pur, Dhaka, Bangladesh
+### 💻 Developer | Problem Solver | Lifelong Learner
 
----
+I'm a passionate developer from Bangladesh 🇧🇩 who enjoys building modern web applications and exploring new technologies.
 
-### 👨‍🏫 About Me
-I'm a passionate **Frontend Developer** with a strong foundation in **Computer Science and Engineering**. I am constantly striving to enhance my skills in web development and enjoy working with cutting-edge technologies. My focus is on building responsive, user-friendly, and high-performance web applications. Learning new things every day and sharing knowledge with others is my key motivation.
+- 🚀 Building projects with Laravel and React.
+- 🌱 Learning Python, JavaScript, and backend development.
+- 🎯 Working towards becoming a professional Full-Stack Developer.
+- 📚 Learning by building real-world projects.
+- 💡 Learn → Build → Improve.
 
----
+### ⚡ Tech Stack
 
-### 👨‍💻 My Skills
-- ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-0078D4?logo=microsoft-office&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) Basic
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,java,mysql,nodejs,git,github,vscode" />
+</p>
 
----
+### 🚀 Featured Projects
 
-### 💼 Employment History
-| **Position** | **Institute**  | **Duration**        | **Location**                       |
-|--------------|----------------|---------------------|------------------------------------|
-| Intern       | Naztech.inc    | Aug 2023 - Nov 2023 | Banani, Dhaka, Bangladesh         |
-| Trainee      | ISBDW          | Ongoing             | Agargaon, Dhaka, Bangladesh       |
+**CodePath** – Beginner-friendly programming learning platform.
 
----
+**Portfolio Website** – My personal developer portfolio.
 
-### 👨‍🎓 Education
-1. **BSc in Computer Science and Engineering**  
-   Bangladesh University of Business & Technology (BUBT)  
-   Mirpur-2, Dhaka
+🌐 [Visit My Portfolio](https://shahriarnaiem.netlify.app)
 
-2. **Professional Diploma in Computer Technology**  
-   Dhaka Polytechnic Institute  
-   Tejgaon, Dhaka
+### 📊 GitHub Statistics
 
----
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahriarnaiem-rafi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarnaiem-rafi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🗣 Languages
-- **Bangla:** Native  
-- **English:** Intermediate  
-- **Hindi:** Advanced
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shahriarnaiem-rafi&theme=tokyonight&hide_border=true" />
+</p>
 
----
+### 🤝 Let's Connect
 
-### ⚽ Hobbies / Interests
-- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess  
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking  
-- ✈️ Traveling  
+<p align="left">
+<a href="https://github.com/shahriarnaiem-rafi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://shahriarnaiem.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</p>
 
----
+<p align="center">
+<b>✨ Code. Create. Learn. Repeat.</b>
+</p>
 
-Thanks for checking out my profile!  
-All rights reserved by Shahriar Naiem Rafi @2024.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shahriarnaiem-rafi&label=Profile%20Views&color=6366f1&style=flat" />
+</p>
